@@ -1,2 +1,2 @@
 # iftm
-Repositório destinado ao curso de Sistemas para Internet - IFTM. Uberlandia-Centro.
+Repositório destinado ao curso de Sistemas para Internet - IFTM. Uberlândia-Centro.
